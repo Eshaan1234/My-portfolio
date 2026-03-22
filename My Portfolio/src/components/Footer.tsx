@@ -11,11 +11,11 @@ const Footer = () => {
           </div>
 
           <div className="flex gap-6">
-            <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors">
+            <a href="https://github.com/Eshaan1234" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors">
               <Github size={24} />
               <span className="sr-only">GitHub</span>
             </a>
-            <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-blue-400 transition-colors">
+            <a href="https://linkedin.com/in/eshaan-gupta-17142a332" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-blue-400 transition-colors">
               <Linkedin size={24} />
               <span className="sr-only">LinkedIn</span>
             </a>
