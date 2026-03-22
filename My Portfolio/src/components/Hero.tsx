@@ -26,15 +26,15 @@ const Hero = () => {
           </div>
 
           <div className="flex items-center justify-center md:justify-start gap-6">
-            <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="text-gray-500 hover:text-gray-900 transition-colors">
+            <a href="https://github.com/Eshaan1234" target="_blank" rel="noopener noreferrer" className="text-gray-500 hover:text-gray-900 transition-colors">
               <Github size={28} />
               <span className="sr-only">GitHub</span>
             </a>
-            <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="text-gray-500 hover:text-blue-600 transition-colors">
+            <a href="https://linkedin.com/in//eshaan-gupta-17142a332" target="_blank" rel="noopener noreferrer" className="text-gray-500 hover:text-blue-600 transition-colors">
               <Linkedin size={28} />
               <span className="sr-only">LinkedIn</span>
             </a>
-            <a href="mailto:hello@example.com" className="text-gray-500 hover:text-red-500 transition-colors">
+            <a href="mailto:eshaangupta53@gmail.com" className="text-gray-500 hover:text-red-500 transition-colors">
               <Mail size={28} />
               <span className="sr-only">Email</span>
             </a>
