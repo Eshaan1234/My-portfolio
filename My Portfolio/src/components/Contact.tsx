@@ -50,7 +50,7 @@ const Contact = () => {
                 </div>
                 <div>
                   <h4 className="text-lg font-bold text-gray-900 mb-1">Email</h4>
-                  <a href="mailto:hello@example.com" className="text-indigo-600 hover:underline text-base">eshaangupta53@gmail.com/ eshaangupta02122006@gmail.com</a>
+                  <a href="mailto:hello@example.com" className="text-indigo-600 hover:underline text-base">eshaangupta53@gmail.com</a>
                 </div>
               </div>
               
@@ -103,7 +103,7 @@ const Contact = () => {
                       onChange={handleChange}
                       required
                       className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-indigo-600 focus:border-transparent outline-none transition-all text-gray-900 placeholder-gray-400"
-                      placeholder="NAME"
+                      placeholder="Name"
                     />
                   </div>
                   <div>
@@ -115,7 +115,7 @@ const Contact = () => {
                       onChange={handleChange}
                       required
                       className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-indigo-600 focus:border-transparent outline-none transition-all text-gray-900 placeholder-gray-400"
-                      placeholder="xyz@gmail.com"
+                      placeholder="name@gmail.com"
                     />
                   </div>
                 </div>
